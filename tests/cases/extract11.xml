@@ -1,0 +1,12 @@
+<!-- This test cases tests the use of spaces withint attributes names and values -->
+
+<?xml version="1.0" encoding="UTF-8"?>
+<gimp-tips>
+  <tip _level = "start">
+    <_welcome>
+
+      Welcome to The GIMP !
+
+    </_welcome>
+  </tip>
+</gimp-tips>

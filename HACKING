@@ -1,0 +1,18 @@
+Bugs
+----------------
+
+Please add bug reports to
+
+http://bugs.launchpad.net/intltool
+
+
+----------------
+Patches
+----------------
+
+The intltool project uses bzr branches for development, on Launchpad.
+If you wish to propose the inclusion of your changes, please create
+a branch on Launchpad and propose it for merging back into the mainline
+development trunk. This allows us to track and review changes much more
+easily, as well as get them landed with proper preservation of authorship
+information.
